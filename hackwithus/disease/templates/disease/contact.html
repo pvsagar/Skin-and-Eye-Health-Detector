@@ -1,0 +1,93 @@
+{% load static %}
+<head>
+<link rel="stylesheet" type="text/css" href="{% static 'disease/style.css' %}">
+<link rel="stylesheet" type="text/css" href="{% static 'disease/bootstrap.css' %}">
+<title>About Us</title>
+</head>
+<body class="side-header">
+  <div id="wrapper" class="clearfix" style="opacity: 1; animation-duration: 1500ms;">
+    <header id="header" class="no-sticky">
+
+		<div id="header-wrap">
+
+			<div class="container clearfix">
+
+				<div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
+
+				<!-- Logo
+				============================================= -->
+				<div id="logo" class="nobottomborder">
+          <a class="standard-logo"><img src="{% static 'disease/logo.png' %}" alt="Canvas Logo"></a>
+					<a class="retina-logo" ><img src="{% static 'disease/logo.png' %}" alt="Canvas Logo"></a>
+
+				</div><!-- #logo end -->
+
+				<!-- Primary Navigation
+				============================================= -->
+				<nav id="primary-menu">
+
+					<ul class="sf-js-enabled">
+						<li class="sub-menu"><a href="{% url 'disease:index'%}" class="sf-with-ul"><div>Home</div></a></li>
+            <li class="sub-menu"><a href="{% url 'disease:uploadeye'%}" class="sf-with-ul"><div>Eye Detector</div></a></li>
+            <li class="sub-menu"><a href="{% url 'disease:uploadskin'%}" class="sf-with-ul"><div>Skin Detector</div></a></li>
+            <li class="sub-menu"><a href="{% url 'disease:contact'%}" class="sf-with-ul"><div>About Us</div></a></li>
+					</ul>
+
+				</nav><!-- #primary-menu end -->
+
+			</div>
+
+		</div>
+
+    </header>
+
+
+<div class='container'>
+        <h1 class='display-4'>About us</h1>
+        <hr>
+        <h3>The Mission</h3>
+        <p class="lead">
+            To provide a simple and easily usable application to the society with which individuals can check their Eye health and Skin health at Zero cost. 
+        </p>
+        <h3>How this is built</h3>
+        <p class="lead">
+            This application uses Image processing, Machine Learning and Artificial Intelligence to process the input image, calssify it and predict the health condition
+        </p>
+
+        <h3>Challenges faced</h3>
+        <p class="lead">
+            There are no predefined image datasets readily availible. we had to scrape the web for images, carefully examine every single image and label it.
+        </p>
+
+        <h3>Future plans</h3>
+        <p class="lead" >
+                <li style ="font-size:1.1rem; font-weight: 300"> Creating a mobile application to increase the reach of application.</li>
+                <li style ="font-size:1.1rem; font-weight: 300"> Collect more data to tune the performance of Machine learning model. </li>
+                <li style ="font-size:1.1rem; font-weight: 300"> Collaborating with hospitals and connecting users to respective hospitals based on user health condition ></li>
+        </p>
+
+        <h3>Contact me</h3>
+        <p class="lead">
+            For information regarding datasets and others please drop an email to : vpolaki1@stevens.edu
+        </p>
+            
+    </div>
+    <div class='container'>
+        <hr>
+        <h3 class='display-5'>It's Me :)</h3>
+        <br>
+        <div class='row'>
+            <div class="col_half col_last center">
+                    
+                <img src="{% static 'disease/vidya.jpg' %}" alt="Vidya Sagar photo" width="250px">
+                <h4>Vidya Sagar Polaki </h4>
+                <a href="https://www.linkedin.com/in/vidyasagar-polaki/" class="sf-with-ul"><div>LinkedIn</div></a>
+            </div>
+        </div>
+    </div>
+
+
+</body>
+
+</div>
+</div>

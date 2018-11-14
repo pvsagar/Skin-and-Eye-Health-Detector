@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "eye-disease-detector",
+  "private_key_id": "31ecda92c5e8dea5061a9ea41255de4c7f4c59f9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC/jXcEYX5Qksk0\n3HYDZFhLqxxmXDiYHGm2jlpUj/gDaa/D2K0a1grFluTRiC8LtpYBYW60m5xhAxCs\nYSRbvnDcCtaU7+WOwRM393+dHOFfsrPl6jM/okcq8yckMSOd2wuH+qZ1dJ0lRIea\n9iTL6ruJwXmhzdulo6dm0SQCuuI+LNjXz8YI/jcXvIapzlOoaNunCB7/oiEgRzgC\nyhyxpP7xPqjr9c3LjiHyswepwELuVzVV7OWyJ+Xc68cVi4bG/1jwyM5dgLyjR2fz\nhCKj16UczLbOGxkRZ5678JKlT+ZmguYIWX9b1/QLVdC2jvTGOdSHIa/B54hQpszR\nJIRG3cGbAgMBAAECggEAEcDQuQ04IcuY7ldIcMQKEulG9o2xiReJDKxg3tmBCP/w\nlFwunwAbe3iiuHDAu3sup+4Zzo9ljPA1yWQvdHlQCHTQsnkRc4uddmBv6WXV1YLA\nfZyZJ1qo8egbRpVvUaANj4rBhr1KGzwgvVH20xdsTjYqSb7EjrN+Pl8/0Sj08wIX\n78pwXu667+1MsyS85z7ggBMtsII2E3iMQm0TAvHDtUapk8HkD7v8+ILUazq6ZRCS\nAiZf4Q36mQmCLmVazhmgyrw2ZP+VHbvMLev5JDQZhnPkBxBrwsS3tTitJwa81oJV\negfvxSLX2h2lHmOVUSCotQ4ASWJG0GWsFgRuC0bnQQKBgQDrG8hWZfjCvDpri0ZK\nmqRWvyTEQpEgqOr10ZIizCt+qFeOH2Pe68x9JwaGigGWtQwiyqk7v7Fw7Ws0rgdE\n0lf1i0RRe6IAsFq4StVwu2W9c8H1chLXVr8cuR/vk8iyT7G64QQ3a43t+FGtJx3e\nyChq9ZyvLUvKxXc1lCY4qpvFqwKBgQDQkuC9C3/FKtxbq2jt0938kBFN8GfMuSrf\nsjdTVMs9Dw/IV5fByu8MXxyo/hAzWvhVx6/PvBlpQpyBjLWv+2EMujC8jqxSW5Qu\ncs/yN3XLOuUOR4eskD0DZ4efdNSs1FgflwwJxNof0+bArq9kL+L5N4xdE52Akilq\nvofxxAEj0QKBgQDGh/5jHtayMlouqDwiEXXGnsAATqnYZ2uJSn/ZjIkJ+kN9Cvq9\nqmZSJJs5Dt6KkbV+x52ii5vd3U5S/MW8ktadzQ1StVC2vjTNPLwB5uzhzxcxGTPZ\nzTGyoozaNPQbxnoxcYOq/NKr6a2mxspNbr3anC7EKj6/KoIgp0qjPUYu4wKBgGqU\nc3UGuD63fSz2tUK6fff+YmlSTKhngooWloDllolX9fepEuo7WdYXkBym3v5vIPEs\nfiGH+/A20qS8k2ce7GPFjPv9Z/8ZvunRT4N1ZaL5MG0QjjrW5eakc8A+wiKiy3kx\nBTzEs7WJ4aNaYFOwyKoTAY3aZSR7C+D5BZy8TNzRAoGAQ6UKMFqAgEy4nMMcbWVS\nSqhwyPJpVbitntGo9Fh2VO+uSMWXaOMqCwOPotEIn/dMdCBCKu0xM1cm51chIj9O\nFmVtkiaySTEPurCwD2iD8YwNZoKtVW1hvA3T3OqYHGUxUVOCaLrGlL1k99w7Gae7\n4VvAoUIm2hrv+iGkve6IatM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "eyestuff@eye-disease-detector.iam.gserviceaccount.com",
+  "client_id": "100582638005451055911",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/eyestuff%40eye-disease-detector.iam.gserviceaccount.com"
+}
