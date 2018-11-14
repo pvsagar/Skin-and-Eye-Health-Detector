@@ -1,3 +1,5 @@
+Follow the below instructions to run the code.
+
 # Requirements
 1. Python 3.6 or later from https://www.python.org/downloads/ 
 2. make sure you have pip installed
