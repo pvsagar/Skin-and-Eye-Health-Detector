@@ -1,4 +1,4 @@
-Follow the below instructions to run the code.
+Follow instructions given below to run the code.
 
 # Requirements
 1. Python 3.6 or later from https://www.python.org/downloads/ 
