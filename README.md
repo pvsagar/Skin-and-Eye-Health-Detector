@@ -1,3 +1,7 @@
+This is a full scale machine learning application which can be used to detect 4 different eye diseases and 8 different skin diseases. 
+
+This is built using Google Cloud and Django
+
 Follow instructions given below to run the code.
 
 # Requirements
